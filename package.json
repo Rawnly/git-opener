@@ -1,0 +1,19 @@
+{
+  "name": "show-repo",
+  "version": "0.1.0",
+  "description": "Git Opener",
+  "main": "index.js",
+  "repository": "none",
+  "author": "Rawnly <fedevitale99@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "show-repo": "./index.js"
+  },
+  "dependencies": {
+    "execa": "^0.6.0",
+    "gift": "^0.10.0",
+    "normalize-url": "^1.9.0",
+    "open": "^0.0.5",
+    "url-regex": "^4.0.0"
+  }
+}
