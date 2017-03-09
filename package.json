@@ -7,7 +7,7 @@
   "author": "Rawnly <fedevitale99@gmail.com>",
   "license": "MIT",
   "bin": {
-    "show-repo": "./index.js"
+    "show-s": "./index.js"
   },
   "dependencies": {
     "execa": "^0.6.0",
